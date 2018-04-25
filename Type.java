@@ -1,0 +1,10 @@
+public enum Type {
+	DATA,
+	BROADCAST,
+	RETRANS,
+	PHASE1,
+	PHASE2,
+	ACK_COMMIT,
+	SUCCESS,
+	ACK_PHASE1
+}
